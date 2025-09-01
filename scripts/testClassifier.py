@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import cv2
 
 # Importando o classificador
-classificador_1 = 'classifier\cascade.xml'
+classificador_1 = 'cascade_fotos\cascade.xml'
 rastreador_1 = cv2.CascadeClassifier(classificador_1)
 
 # Importando a imagem a ser utilizada no modelo
