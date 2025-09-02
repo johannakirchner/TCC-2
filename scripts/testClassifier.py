@@ -6,7 +6,7 @@ classificador_1 = 'cascade_fotos\cascade.xml'
 rastreador_1 = cv2.CascadeClassifier(classificador_1)
 
 # Importando a imagem a ser utilizada no modelo
-imagem = cv2.imread('resistor_test.png')
+imagem = cv2.imread('foto.jpg')
 
 # Transformando a imagem em escala de cinza
 imagem_gray = cv2.cvtColor(imagem, cv2.COLOR_BGR2GRAY)

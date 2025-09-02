@@ -4,7 +4,7 @@
   <stageType>BOOST</stageType>
   <featureType>HAAR</featureType>
   <height>15</height>
-  <width>40</width>
+  <width>15</width>
   <stageParams>
     <boostType>GAB</boostType>
     <minHitRate>9.9500000476837158e-01</minHitRate>

@@ -15,4 +15,5 @@ def reduzir_resolucao_pasta(pasta_entrada, pasta_saida, largura=500, altura=500)
             print(f"Salvo: {caminho_saida}")
 
 # Exemplo de uso
-reduzir_resolucao_pasta("data_set_fotos", "data_set_fotos_resize")
+#reduzir_resolucao_pasta("data_set_fotos", "data_set_fotos_resize")
+reduzir_resolucao_pasta("data_set_fotos_resize", "data_set_fotos_resize_20250902")
