@@ -1,0 +1,1 @@
+execs_opencv\opencv_annotation --annotations=data_set_fotos_resize\pos.txt --images=data_set_fotos_resize\

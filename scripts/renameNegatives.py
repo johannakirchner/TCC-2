@@ -1,7 +1,7 @@
 import os
 
 # caminho para o diretório de imagens
-diretorio = "data_set_fotos"
+diretorio = "data_set_fotos_resize_20250918/negative"
 
 # lista os arquivos
 arquivos = os.listdir(diretorio)

@@ -3,7 +3,7 @@ import random
 import string
 
 # pasta onde estão os arquivos
-pasta = "data_set_fotos_resize/negatives"
+pasta = "data_set_fotos_resize_20250918/negatives"
 
 # pega todos os arquivos (ignora pastas)
 arquivos = [f for f in os.listdir(pasta) if os.path.isfile(os.path.join(pasta, f))]
